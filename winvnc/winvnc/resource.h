@@ -37,8 +37,10 @@
 #define IDD_PROPERTIES1                 146
 #define IDD_ABOUT1                      147
 #define IDR_JAVAARCHIVE1                155
+#if defined(SC_20)
 #define IDR_DLL1                        176
 #define IDR_ENCRYPTIONDLL1              177
+#endif
 #define IDB_BITMAP3                     179
 #define IDB_EXPAND                      218
 #define IDB_COLLAPS                     219
